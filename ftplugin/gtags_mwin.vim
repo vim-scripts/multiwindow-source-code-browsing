@@ -55,11 +55,12 @@
 "     ...
 "     Cursor is place under the list, Press <ENTER> key to select/navigate the tag
 " 
+" 3. To come back to previous tag/window, press Ctl + D.
 " 
-" 3. Similarly, to get the variable symbol definition, place cursor cursor under the symbol
+" 4. Similarly, to get the variable symbol definition, place cursor cursor under the symbol
 "    and press Ctl + S.
 "     
-" 4. To browse the Tag Stack, press Ctl + T key, you would get similar to the following.
+" 5. To browse the Tag Stack, press Ctl + T key, you would get similar to the following.
 " 
 "    ============================== TAG : [StackTag]========================
 "    main/system/process.c         | 5         | FILE_NAME_LENGTH    | FILE
